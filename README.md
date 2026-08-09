@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ereze</h1>
+<h1 align="center">This is a temporary readme</h1>
 <h3 align="center">Software Engineer | Linux Enthusiast | Hardware Enthusiast</h3>
 
 - 🌱 I’m currently learning **Cloud Infrastructure, Devops Engineering**
